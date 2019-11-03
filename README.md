@@ -34,7 +34,7 @@ doing.
 Open up the `posts_controller.rb` file. Let's do a few things to replicate the
 behavior we had in the console:
 
-1. Create a new `Post` instance
+1. Careate a new `Post` instance
 
 2. Pass in the parameters from the form
 
